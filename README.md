@@ -1,3 +1,3 @@
-live page url: 
+live url: 
 
 https://nayabrasoolsb.github.io/ev-dashboard/
