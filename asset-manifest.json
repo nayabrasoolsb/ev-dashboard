@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ev-dashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/ev-dashboard/static/js/main.48253123.js",
+    "static/js/453.25a7332d.chunk.js": "/ev-dashboard/static/js/453.25a7332d.chunk.js",
+    "index.html": "/ev-dashboard/index.html",
+    "main.e6c13ad2.css.map": "/ev-dashboard/static/css/main.e6c13ad2.css.map",
+    "main.48253123.js.map": "/ev-dashboard/static/js/main.48253123.js.map",
+    "453.25a7332d.chunk.js.map": "/ev-dashboard/static/js/453.25a7332d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.48253123.js"
+  ]
+}
